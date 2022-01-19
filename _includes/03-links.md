@@ -1,1 +1,1 @@
-[github] (https://github.com/stephanieanahi)
+[github](https://github.com/stephanieanahi)
